@@ -21,11 +21,10 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure2.png" width="413"/> <img src="/FireflyX/assets/img/figure3.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure4.png" width="413"/> <img src="/FireflyX/assets/img/figure5.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure6.png" width="413"/>
-<!--<iframe width="413" height="315" src="/assets/music/Basic-with-Pitch.mp3" autoplay="false"> </iframe>-->
-
  <video width="413" height="315" controls>
   <source src="/FireflyX/assets/music/Basic-with-Pitch.mp3" type="audio/mp3">
 </video> 
+
 <!--
  <video width="256" height="256" controls>
   <source src="/FireflyX/assets/music/bakamitaisalcyID.mp4" type="video/mp4">

@@ -26,5 +26,5 @@ description: This page is for tips of how to use FireflyX
   <source src="/FireflyX/assets/music/concatenated_ABC_Jar.mp3" type="audio/mp3">
 </video> 
 
-	
+### Music Reading Tips
 ![Tips](/assets/img/tips.png)

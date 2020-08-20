@@ -22,7 +22,7 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure4.png" width="413"/> <img src="/FireflyX/assets/img/figure5.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure6.png" width="413"/>
  <video width="413" height="315" controls>
-  <source src="/FireflyX/assets/music/Basic-with-Pitch.mp3" type="audio/mp3">
+  <source src="/FireflyX/assets/music/Basic-Rhythms.mp3" type="audio/mp3">
 </video> 
 
 <!--
@@ -48,7 +48,9 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure12.png" width="413"/> <img src="/FireflyX/assets/img/figure13.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure14.png" width="413"/> <img src="/FireflyX/assets/img/figure15.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure16.png" width="413"/> <img src="/FireflyX/assets/img/figure17.png" width="413"/> 
-
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/Basic-with-Pitch.mp3" type="audio/mp3">
+</video> 
 
 ## Task 4: Remaking a song!
 - Recreate part of song without the assistance of a music sheet. (London Bridge is Falling Down) 

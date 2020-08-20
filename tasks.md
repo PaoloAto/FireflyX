@@ -21,8 +21,10 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure2.png" width="413"/> <img src="/FireflyX/assets/img/figure3.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure4.png" width="413"/> <img src="/FireflyX/assets/img/figure5.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure6.png" width="413"/>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task 2 Audio
  <video width="413" height="315" controls>
-  <source src="/FireflyX/assets/music/Basic-Rhythms.mp3" type="audio/mp3">
+  <source src="/FireflyX/assets/music/task2" type="audio/mp3">
 </video> 
 
 <!--
@@ -48,8 +50,18 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure12.png" width="413"/> <img src="/FireflyX/assets/img/figure13.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure14.png" width="413"/> <img src="/FireflyX/assets/img/figure15.png" width="413"/> 
 <img src="/FireflyX/assets/img/figure16.png" width="413"/> <img src="/FireflyX/assets/img/figure17.png" width="413"/> 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task 3 First Jar Audio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task 3 Second Jar Audio
  <video width="413" height="315" controls>
-  <source src="/FireflyX/assets/music/Basic-with-Pitch.mp3" type="audio/mp3">
+  <source src="/FireflyX/assets/music/task3 part 1.mp4" type="audio/mp3">
+</video> 
+
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task3 part 2.mp3" type="audio/mp3">
+</video> 
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Task 3 Audio of both jars in succession
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task3.mp3" type="audio/mp3">
 </video> 
 
 ## Task 4: Remaking a song!
@@ -57,6 +69,10 @@ description: This page is a guide for the tasks
 - For this task we will let the child compose a short and very familiar song, we will be requiring the child to create the same song with them listening to it and referencing the music sheet. 
 - The song can be heard by accessing the mp3 file below.
 ![LBIFD Sheet](/assets/img/figure18.png)
+#### London Bridge is Falling Down Audio
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task4.mp3" type="audio/mp3">
+</video> 
 
 ## Task 5: Transforming notes into music!
 - Recreate part of the song with only a music sheet (Twinkle, twinkle, little stars). 

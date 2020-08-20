@@ -24,7 +24,7 @@ description: This page is a guide for the tasks
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task 2 Audio
  <video width="413" height="315" controls>
-  <source src="/FireflyX/assets/music/task2" type="audio/mp3">
+  <source src="/FireflyX/assets/music/task2.mp3" type="audio/mp3">
 </video> 
 
 <!--
@@ -52,7 +52,7 @@ description: This page is a guide for the tasks
 <img src="/FireflyX/assets/img/figure16.png" width="413"/> <img src="/FireflyX/assets/img/figure17.png" width="413"/> 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task 3 First Jar Audio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task 3 Second Jar Audio
  <video width="413" height="315" controls>
-  <source src="/FireflyX/assets/music/task3 part 1.mp4" type="audio/mp3">
+  <source src="/FireflyX/assets/music/task3 part 1.mp3" type="audio/mp3">
 </video> 
 
  <video width="413" height="315" controls>

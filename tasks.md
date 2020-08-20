@@ -53,9 +53,10 @@ description: This page is a guide for the tasks
 </video> 
 
 ## Task 4: Remaking a song!
-- Recreate part of song without the assistance of a music sheet. (London Bridge is Falling Down) 
-- For this task we will let the child compose a short and very familiar song which is London Bridge is Falling Down, for this task we will be requiring the child to create the same song with them just listening to it. 
+- Recreate a small part of 'London Bridge is Falling Down' with the assistance of a music sheet.
+- For this task we will let the child compose a short and very familiar song, we will be requiring the child to create the same song with them listening to it and referencing the music sheet. 
 - The song can be heard by accessing the mp3 file below.
+![LBIFD Sheet](/assets/img/figure18.png)
 
 ## Task 5: Transforming notes into music!
 - Recreate part of the song with only a music sheet (Twinkle, twinkle, little stars). 
@@ -63,5 +64,5 @@ description: This page is a guide for the tasks
 - There is no more visual assistance from the firefly to help you compared to task 2 and 3, as they will be using the music sheet provided below and the song to compose the music sheet.
 - The song can be heard by accessing the mp3 file below.
 #### Twinkle Twinkle Little Star Sheet
-![TTLS Sheet](/assets/img/figure18.png)
+![TTLS Sheet](/assets/img/figure19.png)
 

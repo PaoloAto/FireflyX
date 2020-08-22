@@ -70,13 +70,34 @@ description: This page is a guide for the tasks
 - For this task, the child will be asked to compose the song using the music sheet while listening to the song. 
 - There is no more visual assistance from the firefly to help you compared to task 2 and 3, as they will be using the music sheet provided below and the song to compose the music sheet.
 - The song can be heard by accessing the mp3 file below.
-#### Twinkle Twinkle Little Star Sheet
+	
 ![TTLS Sheet](/assets/img/figure19.png)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twinkle Twinkle Little Star Jar 1 Audio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twinkle Twinkle Little Star Jar 2 Audio
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task5 part 1.mp3" type="audio/mp3">
+</video> 
+
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task5 part 2.mp3" type="audio/mp3">
+</video>  
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twinkle Twinkle Little Star Jar 3 Audio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twinkle Twinkle Little Star Audio
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task5 part 3.mp3" type="audio/mp3">
+</video> 
+
+ <video width="413" height="315" controls>
+  <source src="/FireflyX/assets/music/task5.mp3" type="audio/mp3">
+</video> 
+
+
 
 ## Task 5: Just Listen!
 - Recreate a small part of ‘London Bridge is Falling Down’ without the assistance of a music sheet.
 - For this last task we will let the child compose a short and very familiar song, we will be requiring the child to try to copy it with the best of their abilities with them only listening to what it should sound like.
 - The song can be heard by accessing the mp3 file below.
+
 #### London Bridge is Falling Down Audio
  <video width="413" height="315" controls>
   <source src="/FireflyX/assets/music/task4.mp3" type="audio/mp3">

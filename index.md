@@ -21,5 +21,5 @@ description: Designing Interactions for a Mobile Musical Learning Tool for Child
 1. Protocol for Children - details about the protocol for children. 
 1. Tasks - details about the tasks children have to do.
 1. Protocol for Teacher - details about the protocol for teachers.
-1. Conesnt Forms - shows the collated (and visualized) results from the respondents. Participant info and other identifiers have been removed.
+1. Consent Forms - shows the collated (and visualized) results from the respondents. Participant info and other identifiers have been removed.
 1. Installation Guide - shows the step-by-step process on how to install FireflyX.

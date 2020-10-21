@@ -8,6 +8,7 @@
 
 import Foundation
 
-enum Colors{
-    case Red, Orange, Yellow, Green, Blue, Indigo, Violet
+enum Colors: String, Codable{
+    //case Red, Orange, Yellow, Green, Blue, Indigo, Violet
+    case Red, Yellow, Green
 }

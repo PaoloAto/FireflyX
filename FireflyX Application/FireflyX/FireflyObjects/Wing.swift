@@ -7,7 +7,7 @@
 //
 
 import Foundation
-class Wing{
+class Wing: Codable{
     var firstNote: NoteType
     var repetitions: Int
     
@@ -20,8 +20,8 @@ class Wing{
         self.repetitions = rep
     }
     
-    func setFirstNote(notePattern:NoteType){
-        self.firstNote = notePattern
+    func setFirstNote(note:NoteType){
+        self.firstNote = note
     }
     func setRepetitions(repetitions:Int){
         self.repetitions = repetitions

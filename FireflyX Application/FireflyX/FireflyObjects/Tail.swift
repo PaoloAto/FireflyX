@@ -7,28 +7,48 @@
 //
 
 import Foundation
-class Tail{
+class Tail: Codable{
     var beatPattern: String
-    var pitchPattern: String
+    var beatIndex: Int
     
+    //var pitchPattern: String
+    var isWhole: Bool!
     init(){
         beatPattern = ""
-        pitchPattern = ""
+        beatIndex = -1
+        //pitchPattern = ""
     }
     
+    /*
     func setBlinkPattern(blinkPattern:String){
         self.beatPattern = blinkPattern
     }
+    */
     func setBeatPattern(beatType:NoteType, Bindex:Int){
+        if beatType == .whole || beatType == .wholeRest{
+            beatIndex = 0
+            isWhole = true
+        }else{
+            beatIndex = Bindex
+            isWhole = false
+        }
         beatPattern = PatternCollection.getBeatString(noteType: beatType, index: Bindex)
-        
+        print(beatPattern)
     }
     //func setPitchPattern(trail:Trail)
     func getBeatPattern()->String{
         return self.beatPattern
     }
+    func getBeatIndex()->Int{
+        if isWhole{
+            return 2
+        }
+        return beatIndex
+    }
+    /*
     func getColor()->String{
         return self.pitchPattern
     }
+ */
     
 }

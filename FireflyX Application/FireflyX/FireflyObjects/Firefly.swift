@@ -7,24 +7,24 @@
 //
 
 import Foundation
-class Firefly{
+class Firefly: Codable{
     
     var body : Body
     var wing : Wing
     var tail : Tail
-    var seqno : Int
+
     
     init(){
         body = Body()
         wing = Wing()
         tail = Tail()
-        seqno = 1
+
     }
     init(nBody:Body,nWing:Wing,nTail:Tail){
         body = nBody
         wing = nWing
         tail = nTail
-        seqno = 1
+
     }
     func setBody(body:Body){
         self.body = body
@@ -35,9 +35,6 @@ class Firefly{
     func setTail(tail:Tail){
         self.tail = tail
     }
-    func setSeqno(seqno:Int){
-        self.seqno = seqno
-    }
     func getBody()->Body{
         return body
     }
@@ -47,8 +44,6 @@ class Firefly{
     func getTail()->Tail{
         return tail
     }
-    func getSeqno()->Int{
-        return seqno
-    }
+
     
 }
